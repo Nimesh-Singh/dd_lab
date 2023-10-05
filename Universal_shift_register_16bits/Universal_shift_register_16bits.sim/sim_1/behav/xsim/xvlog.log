@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/Universal_shift_register_16bits/Universal_shift_register_16bits.srcs/sources_1/new/Usr_16bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Usr_16bits
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/Universal_shift_register_16bits/Universal_shift_register_16bits.srcs/sim_1/new/Usr_16bits_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Usr_16bits_tb
