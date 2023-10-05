@@ -1,0 +1,3 @@
+Vivado Simulator 2018.1
+Time resolution is 1 ps
+$finish called at time : 25 ns : File "C:/Users/nimes/carrylook_ahead_adder/carrylook_ahead_adder.srcs/sim_1/new/cla_adder_tb.v" Line 36
