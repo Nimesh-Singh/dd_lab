@@ -1,0 +1,9 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/carryselect_16bits/carryselect_16bits.srcs/sources_1/new/Csa_16bits.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Csa_16bits
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'sum' is not allowed [C:/Users/nimes/carryselect_16bits/carryselect_16bits.srcs/sources_1/new/Csa_16bits.v:23]
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'Cout' is not allowed [C:/Users/nimes/carryselect_16bits/carryselect_16bits.srcs/sources_1/new/Csa_16bits.v:24]
+INFO: [VRFC 10-311] analyzing module fulladder
+INFO: [VRFC 10-311] analyzing module mux
+WARNING: [VRFC 10-9336] redeclaration of ANSI port 'q' is not allowed [C:/Users/nimes/carryselect_16bits/carryselect_16bits.srcs/sources_1/new/Csa_16bits.v:100]
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/carryselect_16bits/carryselect_16bits.srcs/sim_1/new/Csa_16bits_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Csa_16bits_tb
