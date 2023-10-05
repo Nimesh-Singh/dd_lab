@@ -1,0 +1,5 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/Synchronous_Counter/Synchronous_Counter.srcs/sources_1/new/Sync_counter.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sync_counter
+INFO: [VRFC 10-311] analyzing module tff
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/nimes/Synchronous_Counter/Synchronous_Counter.srcs/sim_1/new/Sync_Counter_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Sync_Counter_tb

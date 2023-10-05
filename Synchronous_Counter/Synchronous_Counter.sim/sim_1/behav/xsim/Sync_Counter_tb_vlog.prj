@@ -1,0 +1,10 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Synchronous_Counter.srcs/sources_1/new/Sync_counter.v" \
+"../../../../Synchronous_Counter.srcs/sim_1/new/Sync_Counter_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
