@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../mips_processor.srcs/sources_1/new/Alu_unit.v" \
+"../../../../mips_processor.srcs/sources_1/new/Control.v" \
+"../../../../mips_processor.srcs/sources_1/new/Memory.v" \
+"../../../../mips_processor.srcs/sources_1/new/mips_processor.v" \
+"../../../../mips_processor.srcs/sim_1/new/mips_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
