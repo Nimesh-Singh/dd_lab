@@ -1,0 +1,7 @@
+0.7
+2020.2
+May  7 2023
+15:24:31
+C:/Users/nimes/vedic multiplier/vedic multiplier.sim/sim_1/behav/xsim/glbl.v,1683266558,verilog,,,,glbl,,,,,,,,
+C:/Users/nimes/vedic multiplier/vedic multiplier.srcs/sim_1/new/vedic_multiplier_tb.v,1696869231,verilog,,,,vedic_multiplier_tb,,,,,,,,
+C:/Users/nimes/vedic multiplier/vedic multiplier.srcs/sources_1/new/vedic_multiplier.v,1696868730,verilog,,C:/Users/nimes/vedic multiplier/vedic multiplier.srcs/sim_1/new/vedic_multiplier_tb.v,,add_12_bit;add_16_bit;add_24_bit;add_4_bit;add_6_bit;add_8_bit;ha;vedic_2_x_2;vedic_4_x_4;vedic_8X8;vedic_multiplier,,,,,,,,
